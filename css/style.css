@@ -1,0 +1,15 @@
+body {
+	background-color:rgb(241, 233, 233);
+	font-family:rgb(185, 185, 238);
+}
+h1 {
+   color:rgb(19, 29, 19);
+}
+h3 {
+   color:rgb(99, 64, 18);
+   font-size: 19px;
+}
+a {
+  font-weight: 200;
+  text-decoration: underline;
+}
