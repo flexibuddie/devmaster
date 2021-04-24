@@ -3,11 +3,14 @@ body {
 	font-family:rgb(185, 185, 238);
 }
 h1 {
-   color:rgb(51, 22, 155);
+   color:rgb(149, 50, 168);
 }
 h3 {
-   color:rgb(99, 64, 18);
-   font-size: 19px;
+   color:rgb(18, 99, 42);
+   font-size: 1.2em;
+}
+li{color:aquamarine
+   font: size 0.8em;
 }
 a {
   font-weight: 200;
