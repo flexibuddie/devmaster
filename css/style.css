@@ -1,9 +1,11 @@
 body {
 	background-color:rgb(241, 233, 233);
 	font-family:rgb(185, 185, 238);
+   color:blueviolet
 }
 h1 {
    color:rgb(149, 50, 168);
+   font-size:2em
 }
 h3 {
    color:rgb(18, 99, 42);
