@@ -5,7 +5,8 @@ body {
 }
 h1 {
    color:rgb(149, 50, 168);
-   font-size:2em
+   font-size:2em;
+   font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h3 {
    color:rgb(18, 99, 42);
